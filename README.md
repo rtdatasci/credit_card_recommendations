@@ -3,7 +3,7 @@
 This project predicts the next credit card a user is likely to apply for, based on their demographic information, spending habits, and travel preferences. The goal is to recommend a card that aligns with their lifestyle, particularly focusing on travel rewards and cashback benefits.
 
 ## Project Structure
-- **data**: Contains raw and processed datasets.
+- **data**: Contains raw and processed datasets. Raw data from Kaggle ("sakshigoyal7/credit-card-customers")
 - **notebooks**: Jupyter notebooks for data exploration and experimentation.
 - **src**: Core scripts for data processing, model training, and evaluation.
 - **models**: Saved models.
